@@ -25,6 +25,11 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
 
+### 💻 Projects:  
+
+<p align="center">
+</p>
+
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/DPlayerGod/count.svg"/></p>
