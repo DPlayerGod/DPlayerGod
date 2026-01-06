@@ -10,28 +10,5 @@
 - 👨‍🎓 2021 - 2023 : Studied at Hung Vuong Gifted High School, Pleiku, Gia Lai.
 - 👨‍🎓 Now Sophomore at [UIT](https://www.uit.edu.vn).
 - ⚡ Fun fact: I love Billards.
-
-### ⚡ Technologies and Skills:  
-
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPlayerGod&hide=jupyter%20notebook,html&langs_count=9&layout=compact" />
-</a>
-
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"></code><br>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
-
-### 💻 Projects:  
-
-<p align="center">
-</p>
-
-<hr/>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/DPlayerGod/count.svg"/></p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=DPlayerGod&theme=tokyonight-duo&hide_border=true&card_width=600" /></p>
+>
 
